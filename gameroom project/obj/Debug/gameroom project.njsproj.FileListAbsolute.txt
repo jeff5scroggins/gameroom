@@ -1,0 +1,3 @@
+C:\Users\Jeff5\source\repos\gameroom project\obj\Debug\gameroom project.njsproj.AssemblyReference.cache
+C:\Users\Jeff5\source\repos\gameroom project\obj\Debug\gameroom project.njsproj.CoreCompileInputs.cache
+C:\Users\Jeff5\source\repos\gameroom project\bin\Microsoft.NodejsTools.WebRole.dll

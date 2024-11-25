@@ -1,0 +1,9 @@
+{
+  "name": "gameroom-project",
+  "version": "0.0.0",
+  "description": "gameroom project",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
